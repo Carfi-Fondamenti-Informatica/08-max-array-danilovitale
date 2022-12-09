@@ -1,7 +1,7 @@
 #ifndef LIB
 #define LIB
 
-float massimo(float const, int &);
+float massimo(const float[], int &);
 
 #endif
 
