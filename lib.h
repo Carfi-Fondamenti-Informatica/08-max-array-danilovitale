@@ -1,1 +1,1 @@
-float massimo(const float , int &);
+float massimo(float , int &);
