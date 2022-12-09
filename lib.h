@@ -1,5 +1,5 @@
-#ifndef LIB.H
-#define LIB.H
+#ifndef LIB
+#define LIB
 
 float massimo(float[], int &);
 
